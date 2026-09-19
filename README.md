@@ -1,4 +1,4 @@
-# ServerHibernate
+# server-hibernate
 
 `ServerHibernate` is a small Java socket-based chat server backed by Hibernate and PostgreSQL.
 
